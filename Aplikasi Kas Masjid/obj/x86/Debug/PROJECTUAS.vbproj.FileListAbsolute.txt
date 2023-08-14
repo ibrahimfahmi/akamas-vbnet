@@ -1,0 +1,37 @@
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\bin\Debug\PROJECTUAS.exe
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\bin\Debug\PROJECTUAS.pdb
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\bin\Debug\PROJECTUAS.xml
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.dashboard.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.login.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.Resources.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.exe
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.xml
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.pdb
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.user.resources
+D:\General\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.exe
+D:\General\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.xml
+D:\General\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.pdb
+D:\General\PROJECTUAS\PROJECTUAS\bin\Debug\PROJECTUAS.exe
+D:\General\PROJECTUAS\PROJECTUAS\bin\Debug\PROJECTUAS.pdb
+D:\General\PROJECTUAS\PROJECTUAS\bin\Debug\PROJECTUAS.xml
+D:\General\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.dashboard.resources
+D:\General\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.datakas.resources
+D:\General\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.kegiatan.resources
+D:\General\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.login.resources
+D:\General\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.Resources.resources
+D:\General\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.user.resources
+D:\General\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.vbproj.GenerateResource.Cache
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.exe
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.xml
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.pdb
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\bin\Debug\PROJECTUAS.exe
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\bin\Debug\PROJECTUAS.pdb
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\bin\Debug\PROJECTUAS.xml
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.dashboard.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.datakas.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.kegiatan.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.login.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.Resources.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.user.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\PROJECTUAS.vbproj.GenerateResource.Cache

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AKAMAS
+</name>
+</assembly>
+<members>
+<member name="P:AKAMAS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AKAMAS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AKAMAS.My.Resources.Resources.activity">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AKAMAS.My.Resources.Resources.Flag_of_Indonesia">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AKAMAS.My.Resources.Resources.icons8_megaphone_100">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AKAMAS.My.Resources.Resources.kegiatan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AKAMAS.My.Resources.Resources.lock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AKAMAS.My.Resources.Resources.masjid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AKAMAS.My.Resources.Resources.masjid_white_nobg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AKAMAS.My.Resources.Resources.organisasi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AKAMAS.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AKAMAS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:AKAMAS.DataSetAKAMAS.kasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AKAMAS.DataSetAKAMAS.strukturOrganisasiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AKAMAS.DataSetAKAMAS.kasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AKAMAS.DataSetAKAMAS.strukturOrganisasiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AKAMAS.DataSetAKAMAS.kasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AKAMAS.DataSetAKAMAS.strukturOrganisasiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AKAMAS.DataSetAKAMAS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

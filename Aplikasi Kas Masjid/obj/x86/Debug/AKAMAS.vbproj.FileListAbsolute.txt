@@ -1,0 +1,55 @@
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\bin\Debug\AKAMAS.exe
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\bin\Debug\AKAMAS.pdb
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\bin\Debug\AKAMAS.xml
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.Resources.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.user.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.vbproj.GenerateResource.Cache
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.exe
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.xml
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.pdb
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS._splash.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS._about.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS._login.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.identitasMasjid.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.addPosisi.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.addPjPosisi.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.showStrukturOrganisasi.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.addKegiatan.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.addKasMasuk.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.addKasKeluar.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS._dashboard.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.showKas.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.vbprojResolveAssemblyReference.cache
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.reportStrukturOrganisasi.resources
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\RdlCompile.cache
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\RdlCompile.compiled
+D:\Documents\VisutalStudio2010\LATIHAN VBNET 2010\PROJECTUAS\PROJECTUAS\obj\x86\Debug\AKAMAS.reportKas.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.xml
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.pdb
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\bin\Debug\AKAMAS.exe
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\bin\Debug\AKAMAS.pdb
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\bin\Debug\AKAMAS.xml
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.addPjPosisi.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.addPosisi.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.addKasKeluar.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.reportKas.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.reportStrukturOrganisasi.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.showKas.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS._dashboard.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.addKasMasuk.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.identitasMasjid.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.addKegiatan.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.showStrukturOrganisasi.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS._login.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.Resources.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS._about.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS._splash.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.user.resources
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\RdlCompile.cache
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Lenovo\Downloads\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.exe
+D:\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.exe
+D:\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.xml
+D:\(KULIAH SMT 4)\PEMROGRAMAN VISUAL\latihan\projectvbnet\projectvbnet\PROJECTUAS - done\PROJECTUAS\obj\x86\Debug\AKAMAS.pdb

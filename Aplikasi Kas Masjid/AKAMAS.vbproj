@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E8F1B60B-805D-434B-B05D-3A5003697F42}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AKAMAS.My.MyApplication</StartupObject>
+    <RootNamespace>AKAMAS</RootNamespace>
+    <AssemblyName>AKAMAS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AKAMAS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AKAMAS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addPjPosisi.Designer.vb">
+      <DependentUpon>addPjPosisi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addPjPosisi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addPosisi.Designer.vb">
+      <DependentUpon>addPosisi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addPosisi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addKasKeluar.Designer.vb">
+      <DependentUpon>addKasKeluar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addKasKeluar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSetAKAMAS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetAKAMAS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="reportKas.Designer.vb">
+      <DependentUpon>reportKas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportKas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportStrukturOrganisasi.Designer.vb">
+      <DependentUpon>reportStrukturOrganisasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportStrukturOrganisasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showKas.Designer.vb">
+      <DependentUpon>showKas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="showKas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_dashboard.Designer.vb">
+      <DependentUpon>_dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="_dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addKasMasuk.Designer.vb">
+      <DependentUpon>addKasMasuk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addKasMasuk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="identitasMasjid.Designer.vb">
+      <DependentUpon>identitasMasjid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="identitasMasjid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addKegiatan.Designer.vb">
+      <DependentUpon>addKegiatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addKegiatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showStrukturOrganisasi.Designer.vb">
+      <DependentUpon>showStrukturOrganisasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="showStrukturOrganisasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_login.Designer.vb">
+      <DependentUpon>_login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleAKAMAS.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="_about.Designer.vb">
+      <DependentUpon>_about.vb</DependentUpon>
+    </Compile>
+    <Compile Include="_about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_splash.Designer.vb">
+      <DependentUpon>_splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="_splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user.Designer.vb">
+      <DependentUpon>user.vb</DependentUpon>
+    </Compile>
+    <Compile Include="user.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="addPjPosisi.resx">
+      <DependentUpon>addPjPosisi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addPosisi.resx">
+      <DependentUpon>addPosisi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addKasKeluar.resx">
+      <DependentUpon>addKasKeluar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportContentKas.rdlc" />
+    <EmbeddedResource Include="reportContentStrukturOrganisasi.rdlc" />
+    <EmbeddedResource Include="reportKas.resx">
+      <DependentUpon>reportKas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportStrukturOrganisasi.resx">
+      <DependentUpon>reportStrukturOrganisasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showKas.resx">
+      <DependentUpon>showKas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_dashboard.resx">
+      <DependentUpon>_dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addKasMasuk.resx">
+      <DependentUpon>addKasMasuk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="identitasMasjid.resx">
+      <DependentUpon>identitasMasjid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addKegiatan.resx">
+      <DependentUpon>addKegiatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showStrukturOrganisasi.resx">
+      <DependentUpon>showStrukturOrganisasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_login.resx">
+      <DependentUpon>_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_about.resx">
+      <DependentUpon>_about.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_splash.resx">
+      <DependentUpon>_splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user.resx">
+      <DependentUpon>user.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSetAKAMAS.xsc">
+      <DependentUpon>DataSetAKAMAS.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetAKAMAS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetAKAMAS.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSetAKAMAS.xss">
+      <DependentUpon>DataSetAKAMAS.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="aset\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="aset\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="aset\kegiatan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="aset\masjid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="aset\masjid_white_nobg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="aset\Flag_of_Indonesia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="aset\activity.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="aset\organisasi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="aset\icons8-megaphone-100.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
